@@ -54,7 +54,7 @@ session_start();
 
                     <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">CS</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="HTML/firstYear/2nd_semester.html">2 year</a></li>
+                            <li><a class="dropdown-item" href="secondyear/secondYear.html">2 year</a></li>
                             <li><a class="dropdown-item" href="HTML/CS%20Branch/3rd_year.html">3 year</a></li>
                             <li><a class="dropdown-item" href="HTML/CS%20Branch/4th_year.html">4 year</a></li>
 
@@ -288,7 +288,7 @@ session_start();
 
           <!-- Grid column -->
           <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
-            <h5 class="mb-0">Get connected with us on social networks!</h5>
+            <h5 class="mb-0" style="color:white;">Get connected with us on social networks!</h5>
           </div>
           <!-- Grid column -->
 
@@ -349,13 +349,13 @@ session_start();
                 <a href="#">First Year</a>
               </p>
               <p>
-                <a href="HTML/secondPage.html">Second Year</a>
+                <a href="secondyear/secondYear.html">Second Year</a>
               </p>
               <p>
-                <a href="#">Third Year</a>
+                <a href="HTML/CS%20Branch/3rd_year.html">Third Year</a>
               </p>
               <p>
-                <a href="#">Fourth Year</a>
+                <a href="HTML/CS%20Branch/4th_year.html">Fourth Year</a>
               </p>
             </div>
 
